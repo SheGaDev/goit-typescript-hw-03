@@ -1,9 +1,9 @@
 {
-  "name": "typescript-homework-module-3",
+  "name": "goit-typescript-hw-03",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
-  "author": "",
+  "author": "shegadev",
   "license": "ISC",
   "dependencies": {
     "typescript": "^5.1.5"
